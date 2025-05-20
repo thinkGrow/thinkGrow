@@ -1,7 +1,19 @@
-### 👋 Hi, I’m thinkGrow
+### 👋 Hi, I’m Rubait Reshad
 
 I build things that live on the web — from responsive UIs to AI-powered apps.  
-Passionate about merging code, creativity, and impact.
+
+I'm a Full Stack Developer and AI Researcher from Bangladesh, passionate about building scalable web applications.
+
+🔭 Currently working on: frontend projects with React and integrating AI tools
+
+🌱 Learning: React
+
+💼 Background: Backend engineering, academic research in AI, and teaching Computer Science
+
+🧠 Interests: Deep learning, web performance, and educational technology
+
+
+
 
 ---
 
@@ -17,11 +29,6 @@ Passionate about merging code, creativity, and impact.
 
 ---
 
-### 📊 GitHub Stats
+🔗 <a href="https://yourwebsite.com" target="_blank">Portfolio</a> |
+<a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinkGrow&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thinkGrow&show_icons=true&theme=default)
-
----
-
-🔗 [Portfolio](https://yourwebsite.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
