@@ -33,6 +33,6 @@ I'm a Full Stack Developer and AI Researcher from Bangladesh, passionate about b
 
 ---
 
-🔗 <a href="https://yourwebsite.com" target="_blank">Portfolio</a> |
+🔗 <a href="https://rubaitreshad.com" target="_blank">Portfolio</a> |
 <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
 
