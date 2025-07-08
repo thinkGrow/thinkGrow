@@ -4,7 +4,7 @@ I build things that live on the web — from fast, responsive UIs to AI-powered 
 
 I’m a Full Stack Developer and AI Researcher from Bangladesh, passionate about building scalable, user-focused software.
 
-- 🔭 Currently working on: frontend projects with **React**, integrating **AI tools**, and building RESTful APIs  
+- 🔭 Currently working on: frontend projects with **React**
 - 🌱 Learning: **Advanced React patterns**, **TypeScript**, and **web performance optimization**  
 - 💼 Background: Backend engineering, AI research, and teaching Computer Science  
 - 🧠 Interests: Deep learning, frontend architecture, and educational technology  
