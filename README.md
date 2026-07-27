@@ -1,5 +1,7 @@
 # Hi, I'm Rubait Reshad (Rubaut Reshed) 👋
 
+I like code to get paid, I want to get paid to have coffee, I need coffee to code.
+
 Software Engineer, Entrepreneur, and AI Builder.
 
 I enjoy building products from zero to production, designing scalable full-stack applications, conducting research in Computer Vision and Natural Language Processing, and turning ambitious ideas into software people use. My work spans product engineering, artificial intelligence, and developer tools, with a focus on solving real-world problems through technology.
