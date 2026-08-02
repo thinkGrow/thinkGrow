@@ -53,16 +53,6 @@ I enjoy building products from zero to production, designing scalable full-stack
 
 ---
 
-## 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=thinkGrow&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=thinkGrow&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thinkGrow&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubaut-reshed/)
