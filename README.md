@@ -4,11 +4,11 @@ Software Engineer, Entrepreneur, and AI Builder.
 
 I enjoy building products from zero to production, designing scalable full-stack applications, conducting research in Computer Vision and Natural Language Processing, and turning ambitious ideas into software people use. My work spans product engineering, artificial intelligence, and developer tools, with a focus on solving real-world problems through technology.
 
-- 🚀 Building full-stack products from architecture to deployment
-- 🤖 Conducting research in Computer Vision and Natural Language Processing
-- ⚡ Solving algorithmic problems through competitive programming
-- 🛠️ Building AI-powered applications and developer tools
-- 🌍 Open to collaborating on ambitious software, AI, and startup projects
+- Building full-stack products from architecture to deployment
+- Conducting research in Computer Vision and Natural Language Processing
+- Solving algorithmic problems through competitive programming
+- Building AI-powered applications and developer tools
+- Open to collaborating on ambitious software, AI, and startup projects
 
 ---
 
