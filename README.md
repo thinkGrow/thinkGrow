@@ -9,16 +9,20 @@ Open to collaborating on ambitious software, AI, and startup projects.
 ---
 
 ## Tech Stack
- 
-**Languages** &nbsp; C++ · Python · JavaScript · TypeScript · SQL
- 
+
+**Languages** &nbsp; C++ · Python · JavaScript · TypeScript · SQL · R
+
 **Frontend** &nbsp; React · Next.js · Tailwind CSS · HTML · CSS
- 
-**Backend** &nbsp; Node.js · Express · REST APIs · MongoDB · PostgreSQL · Firebase
- 
+
+**Backend** &nbsp; Node.js · Express · FastAPI · Laravel · REST APIs · Prisma
+
+**Databases** &nbsp; PostgreSQL · MySQL · MongoDB
+
 **AI / ML** &nbsp; PyTorch · TensorFlow · scikit-learn · NumPy · Pandas
- 
-**Tools** &nbsp; Git · GitHub · Docker · Vercel · Claude Code · Codex
+
+**LLMs** &nbsp; RAG · Agents · OpenAI / Anthropic APIs
+
+**Tools** &nbsp; Git · GitHub · Docker · Vercel · Firebase · Sanity CMS · LaTeX · Claude Code · Codex
  
 ## Connect
  
