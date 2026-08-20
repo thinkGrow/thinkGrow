@@ -1,14 +1,10 @@
-# Hi, I'm Rubait Reshad (Rubaut Reshed) 👋
+# Rubaut Reshed ( Rubait Reshad )
 
-Software Engineer, Entrepreneur, and AI Builder.
+Software engineer building full-stack products end to end, from architecture to deployment. Main stack is React, Next.js, TypeScript, and Node. I also do research in computer vision and NLP, and compete in algorithmic programming.
 
-I enjoy building products from zero to production, designing scalable full-stack applications, conducting research in Computer Vision and Natural Language Processing, and turning ambitious ideas into software people use. My work spans product engineering, artificial intelligence, and developer tools, with a focus on solving real-world problems through technology.
+Lately I've been building with LLMs, exploring RAG and agentic workflows.
 
-- Building full-stack products from architecture to deployment
-- Conducting research in Computer Vision and Natural Language Processing
-- Solving algorithmic problems through competitive programming
-- Building AI-powered applications and developer tools
-- Open to collaborating on ambitious software, AI, and startup projects
+Open to collaborating on ambitious software, AI, and startup projects.
 
 ---
 
