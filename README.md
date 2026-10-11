@@ -1,28 +1,30 @@
 # Rubaut Reshed ( Rubait Reshad )
 
-Software engineer building full-stack products end to end, from architecture to deployment. Main stack is React, Next.js, TypeScript, and Node. I also do research in computer vision and NLP, and compete in algorithmic programming.
+Full-stack engineer building production web apps end to end, from architecture to deployment.
 
-Lately I've been building with LLMs, exploring RAG and agentic workflows.
+**Currently:** building multi-tenant admissions platforms at PEN Global for universities, recruitment agencies and student applicants.
 
-Open to collaborating on ambitious software, AI, and startup projects.
+**Exploring:** LLM-powered applications: RAG, agents, and the evaluation work that makes them reliable.
 
----
+## Stack
 
-## Tech Stack
+**Core** — TypeScript · React · Next.js · Node.js · Tailwind CSS
 
-**Languages** &nbsp; C++ · Python · JavaScript · TypeScript · SQL · R
+**Data** — PostgreSQL · Prisma · MySQL · MongoDB
 
-**Frontend** &nbsp; React · Next.js · Tailwind CSS · HTML · CSS
+**Backend** — REST APIs · Express · FastAPI · Django · Laravel
 
-**Backend** &nbsp; Node.js · Express · FastAPI · Laravel · REST APIs · Prisma
+**Auth & Email** — Better Auth · OTP verification · Resend · React Email
 
-**Databases** &nbsp; PostgreSQL · MySQL · MongoDB
+**Testing** — Vitest · Playwright
 
-**AI / ML** &nbsp; PyTorch · TensorFlow · scikit-learn · NumPy · Pandas
+**AI / ML** — Python · PyTorch · scikit-learn · OpenAI & Anthropic APIs
 
-**LLMs** &nbsp; RAG · Agents · OpenAI / Anthropic APIs
+**Infra** — Vercel · Git · GitHub Actions · Docker
 
-**Tools** &nbsp; Git · GitHub · Docker · Vercel · Firebase · Sanity CMS · LaTeX · Claude Code · Codex
+## Research
+
+Computer vision and NLP. Recurrent models for efficient image classification.
  
 ## Connect
  
