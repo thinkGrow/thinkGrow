@@ -6,6 +6,8 @@ Full-stack engineer building production web apps end to end, from architecture t
 
 **Exploring:** LLM-powered applications: RAG, agents, and the evaluation work that makes them reliable.
 
+**Work GitHub** : https://github.com/pen-rubaut
+
 ## Stack
 
 **Core** — TypeScript · React · Next.js · Node.js · Tailwind CSS
